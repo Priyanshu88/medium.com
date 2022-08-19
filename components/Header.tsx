@@ -6,7 +6,7 @@ function Header() {
             <div className="flex items-center space-x-5">
                 <Link href="/">
                     <img className="w-44 object-contain cursor-pointer"
-                        src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-symbol.png"
+                        src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"
                         alt=""
                     />
                 </Link>

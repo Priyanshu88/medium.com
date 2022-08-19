@@ -35,7 +35,7 @@ export default function Home({ posts }: Props) {
         </div>
         <img
           className='hidden md:inline-flex h-32 lg:h-full'
-          src='https://cdn.freebiesupply.com/logos/thumbs/2x/medium-1-logo.png'
+          src='https://iconape.com/wp-content/png_logo_vector/medium-m.png'
           alt=''
         />
       </div>
