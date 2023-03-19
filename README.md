@@ -55,7 +55,16 @@
 
 - Application Home page & Demo
 
-https://user-images.githubusercontent.com/86107841/226158781-1d0323a0-2860-4b81-8bb5-a6a946578a42.mp4
+<div align="center">
+<a href="https://clo-c911f.web.app/" target="_blank"><img  src='./demo/ezgif-2-b23fb77da9.gif' alt='image'/></a>
+</div>
+
+
+
+
+https://user-images.githubusercontent.com/86107841/226159569-0b4d19e0-4489-484e-a947-048668b6e540.mp4
+
+
 <br />
 
 - Blog Details Page
@@ -91,7 +100,7 @@ https://user-images.githubusercontent.com/86107841/226158781-1d0323a0-2860-4b81-
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Database</summary>
   <ul>
     <li><a href="https://nodejs.org/en/">Node Js</a></li>
     <li><a href="https://www.sanity.io/docs/js-client">Sanity Client</a></li>
@@ -151,6 +160,10 @@ To run this project, you will need to add the following environment variables to
 
 ### :gear: Installation
 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
+
+
 Install my-project with npm
 
 ```bash
@@ -166,6 +179,8 @@ Install dependencies
 ### :test_tube: Install Tailwind CSS with Next.js
 
 #### Install Tailwind CSS
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 Install tailwindcss and its peer dependencies via npm, and then run the init command to generate both `tailwind.config.js` and `postcss.config.js`.
 
@@ -228,6 +243,9 @@ Install dependencies
 
 ### :running: Run Locally
 
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 Clone the project
 
 ```bash
@@ -276,17 +294,19 @@ To deploy this project run
 
 ##### Deploy on Vercel
 
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js.
 
 Check out our [Vercel deployment documentation](https://vercel.com/docs) for more details.
 
-##### Backend (server)
+##### Backend (CMS)
 
-##### Deploy on Sanity
+##### Sanity Deployment
 
 The easiest way to deploy your CMS is to use the [Sanity Platform](https://railway.app/) from the creators of React.js.
 
-Check out our [Sanity deployment documentation](https://www.sanity.io/docs/deployment) for more details.
+Check out [Sanity deployment documentation](https://www.sanity.io/docs/deployment) for more details.
 
 ## :handshake: Contact
 
