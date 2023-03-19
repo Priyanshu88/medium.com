@@ -64,12 +64,12 @@
 - Blog Details Page
 
 <div align="center">
-<a href="https://medium-com.vercel.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://medium-com.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/226156615-dd370a0c-6114-4a13-8692-3a0355eca744.png' alt='image' width='800'/></a>
 </div>
 
 <br />
 
-- Sanity CMS Page
+- Sanity Studio Page
 
 <div align="center">
 <a href="https://medium-com.vercel.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
@@ -231,7 +231,7 @@ Install dependencies
 Clone the project
 
 ```bash
- git clone https://github.com/Priyanshu88/medium.com.git
+git clone https://github.com/Priyanshu88/medium.com.git
 ```
 
 ```bash
@@ -242,14 +242,14 @@ Install dependencies
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 First, run the development server:
 
 ```bash
-  npm run dev
+npm run dev
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -264,7 +264,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ### Learn More
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`react-hook-form`](https://react-hook-form.com/) for comments on posts.
 
 <!-- Deployment -->
 
