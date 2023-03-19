@@ -55,10 +55,7 @@
 
 - Application Home page & Demo
 
-<div align="center">
-<a href="https://medium-com.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
-</div>
-
+https://user-images.githubusercontent.com/86107841/226158781-1d0323a0-2860-4b81-8bb5-a6a946578a42.mp4
 <br />
 
 - Blog Details Page
@@ -72,7 +69,7 @@
 - Sanity Studio Page
 
 <div align="center">
-<a href="https://medium-com.vercel.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://medium-com.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/226156987-d3d2f924-241a-4654-9a46-e7d59f642cfa.png' alt='image' width='800'/></a>
 </div>
 
 ## <a href="https://medium-com.vercel.app/" target="_blank">LIVE DEMO 💥</a>
@@ -112,18 +109,21 @@
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/183096870-fdf58e59-d78c-44f4-bd1c-f9033c16d907.png" alt="Google" width="30" height="30" /></a>
         </td>
+       <td>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
+        </td>
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
         </td>
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
         </td>
-                                <td>
+                   <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/226000274-de146527-4fe8-4a3f-b210-dc4c195ab23d.jpg" alt="" width="30" height="30" /></a>
         </td>
-                                            <td>
-<a href="#"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_96102ac6497377cd53da621075fe828e/sanity.png" alt="" width="30" height="30" /></a>
-        </td>                                              
+      <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/183095729-0ae04014-a62c-4013-93ff-6861fbff308e.png" alt="" width="30" height="30" /></a>
+        </td>                                                                         
     </tr>
 </table>
 
