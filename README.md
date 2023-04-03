@@ -310,6 +310,8 @@ Check out [Sanity deployment documentation](https://www.sanity.io/docs/deploymen
 
 ## :handshake: Contact
 
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
 Project Link: [https://github.com/Priyanshu88/medium.com.git](https://github.com/Priyanshu88/medium.com.git)
